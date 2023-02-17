@@ -73,30 +73,31 @@ public class TiendaPianos {
         String tipo = sc.next();
 
 // Creamos un objeto Piano según el tipo elegido y lo añadimos a la lista
-        boolean exito = true;
         switch (tipo) {
             case "Cola":
             case "cola":
                 Piano cola = new Cola(modelo, precio);
                 listaPianos.add(cola);
+                 System.out.println("Se ha añadido el piano correctamente.");
                 break;
             case "Pared":
             case "pared":
                 Piano pared = new Pared(modelo, precio);
                 listaPianos.add(pared);
+                 System.out.println("Se ha añadido el piano correctamente.");
                 break;
             case "Electrónico":
             case "electrónico":
             case "Electronico":
             case "electronico":
+
                 Piano electronico = new Electronico(modelo, precio);
                 listaPianos.add(electronico);
-                System.out.println("Se ha añadido el piano correctamente.");
+                 System.out.println("Se ha añadido el piano correctamente.");
                 break;
             default:
                 System.out.println("Tipo de piano no válido.");
                 System.out.println("No se ha añadido el piano correctamente");
-                exito = false;
         }
     }
 
