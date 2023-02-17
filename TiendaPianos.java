@@ -88,8 +88,6 @@ public class TiendaPianos {
                 break;
             case "Electrónico":
             case "electrónico":
-            case "Electronico":
-            case "electronico":
 
                 Piano electronico = new Electronico(modelo, precio);
                 listaPianos.add(electronico);
