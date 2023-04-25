@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T15:39:24.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="jTN1F3N9EPo0syq7z28g" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T15:41:02.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="QGq3qVUWbzlOKfnT3vZS" version="21.2.1" type="github">
   <diagram name="Page-1" id="eAtbL_gcrW_3LjZoCwqs">
     <mxGraphModel dx="928" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,6 +67,18 @@
           <mxGeometry x="395" y="350" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTuTKlfT30EkHTB-Xebb-17" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iTuTKlfT30EkHTB-Xebb-16">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iTuTKlfT30EkHTB-Xebb-23" value="COMPETENCIA PERSONAL" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iTuTKlfT30EkHTB-Xebb-24" value="Descripcion" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iTuTKlfT30EkHTB-Xebb-23">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iTuTKlfT30EkHTB-Xebb-27" value="TAREA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="530" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iTuTKlfT30EkHTB-Xebb-28" value="Descripción" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iTuTKlfT30EkHTB-Xebb-27">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
