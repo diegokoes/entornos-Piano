@@ -1,26 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T15:41:02.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="QGq3qVUWbzlOKfnT3vZS" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T15:48:14.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="yK1v0cYL4vuJHU5s2DVy" version="21.2.1" type="github">
   <diagram name="Page-1" id="eAtbL_gcrW_3LjZoCwqs">
     <mxGraphModel dx="928" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iTuTKlfT30EkHTB-Xebb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="D7m2tzj4SoN4IRL-71S_-1" target="iTuTKlfT30EkHTB-Xebb-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="D7m2tzj4SoN4IRL-71S_-1" value="MODULO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="133.75" y="230" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="D7m2tzj4SoN4IRL-71S_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="1" target="D7m2tzj4SoN4IRL-71S_-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590.0588235294117" y="120" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="590" y="90" />
-              <mxPoint x="440" y="90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="D7m2tzj4SoN4IRL-71S_-10" value="EXAMEN" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="510" width="210" height="110" as="geometry" />
+          <mxGeometry x="460" y="520" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="D7m2tzj4SoN4IRL-71S_-11" value="Preguntas - - - - - -&amp;nbsp; - {30 constante}" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="D7m2tzj4SoN4IRL-71S_-10" vertex="1">
           <mxGeometry y="30" width="210" height="20" as="geometry" />
@@ -35,7 +20,7 @@
           <mxGeometry x="380" y="40" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D7m2tzj4SoN4IRL-71S_-25" value="PERSONA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="120" width="140" height="180" as="geometry">
+          <mxGeometry x="590" y="110" width="140" height="180" as="geometry">
             <mxRectangle x="550" y="120" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -55,7 +40,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iTuTKlfT30EkHTB-Xebb-2" value="COMPETENCIAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="130" width="107.5" height="20" as="geometry" />
+          <mxGeometry x="371" y="150" width="107.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iTuTKlfT30EkHTB-Xebb-9" value="PROFESOR" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="350" width="140" height="60" as="geometry" />
@@ -64,22 +49,34 @@
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iTuTKlfT30EkHTB-Xebb-16" value="ALUMNO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="350" width="140" height="60" as="geometry" />
+          <mxGeometry x="478.5" y="350" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTuTKlfT30EkHTB-Xebb-17" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iTuTKlfT30EkHTB-Xebb-16">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iTuTKlfT30EkHTB-Xebb-23" value="COMPETENCIA PERSONAL" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="410" width="140" height="60" as="geometry" />
+          <mxGeometry x="140" y="250" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTuTKlfT30EkHTB-Xebb-24" value="Descripcion" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iTuTKlfT30EkHTB-Xebb-23">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iTuTKlfT30EkHTB-Xebb-27" value="TAREA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="530" width="140" height="60" as="geometry" />
+          <mxGeometry x="290" y="520" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iTuTKlfT30EkHTB-Xebb-28" value="Descripción" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iTuTKlfT30EkHTB-Xebb-27">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iTuTKlfT30EkHTB-Xebb-32" value="MODULO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="215" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iTuTKlfT30EkHTB-Xebb-33" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iTuTKlfT30EkHTB-Xebb-32">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iTuTKlfT30EkHTB-Xebb-34" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iTuTKlfT30EkHTB-Xebb-32">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iTuTKlfT30EkHTB-Xebb-35" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iTuTKlfT30EkHTB-Xebb-32">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
